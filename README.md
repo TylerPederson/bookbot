@@ -1,2 +1,2 @@
 # bookbot
-Repo for following the boot.dev bookbot course
+Bookbot is my first project!
